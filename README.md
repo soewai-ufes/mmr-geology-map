@@ -1,7 +1,7 @@
 # Myanmar Geology Map
-Reference to Myanmar Geosciences Society (2014)
+Geology Region and mineral composite reference to Myanmar Geosciences Society (2014) which was partly based on Geology Map of the Socialist Republic of the Union of Burma (1977).
 
-**Purpose:** To interpret ***Fault, Fold, Mineral Composite and Geo Region of Myanmar*** on interactive Web Map
+**Purpose:** To interpret ***Fault, Fold, Mineral Composite and Geology Zone of Myanmar*** on interactive Web Map
 
 ## Data Source
 - Township and Myanmar Townpoint [MIMU](https://geonode.themimu.info/layers/?limit=100&offset=0)
